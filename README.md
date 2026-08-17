@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Priyansh Gupta - Software Engineer" width="800" />
+<img src="https://raw.githubusercontent.com/priyanshgupta5101/priyanshgupta5101/main/assets/hero.svg" alt="Priyansh Gupta - Software Engineer" width="800" />
 
 </div>
 
@@ -134,7 +134,7 @@
 ## 🏗️ Architecture & Systems
 
 <div align="center">
-  <img src="./assets/architecture.svg" alt="Architecture Diagram" width="800" />
+  <img src="https://raw.githubusercontent.com/priyanshgupta5101/priyanshgupta5101/main/assets/architecture.svg" alt="Architecture Diagram" width="800" />
 </div>
 *(A conceptual representation of the scalable, decoupled systems I build and maintain.)*
 
