@@ -1,12 +1,12 @@
 <div align="center">
 
-# ⚡ Priyansh Gupta
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Priyansh%20Gupta&fontSize=60&fontAlignY=35&desc=Software%20Engineer%20%E2%80%A2%20AI%20/%20ML%20%E2%80%A2%20Backend&descSize=20&descAlignY=55" alt="Priyansh Gupta Banner" width="100%" />
+
+<br>
 
 <a href="https://github.com/priyanshgupta5101">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Development;AI%2FML;Backend+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full-Stack+Product+Engineering;Intelligent+Applications;Distributed+Systems+%26+Architecture;Building+Practical+Solutions" alt="Typing SVG" />
 </a>
-
-*Building practical software systems with modern full-stack technologies, intelligent application features, APIs, asynchronous workflows, backend architecture, and scalable system design.*
 
 </div>
 
@@ -62,13 +62,7 @@
 ## ⚡ Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,php" alt="Languages" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,fastapi" alt="Frameworks" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,kafka,docker,git,github,linux" alt="Tools & DBs" />
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow" alt="AI & ML" />
+  <img src="https://skillicons.dev/icons?i=ts,js,python,go,php,react,nextjs,tailwind,nodejs,express,fastapi,postgres,mysql,redis,kafka,docker,git,github,linux,tensorflow&perline=10" alt="Technology Stack" />
 </div>
 
 <br>
