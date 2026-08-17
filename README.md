@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/priyanshgupta5101/priyanshgupta5101/main/assets/hero.svg" alt="Priyansh Gupta - Software Engineer" width="800" />
+# ⚡ Priyansh Gupta
+
+<a href="https://github.com/priyanshgupta5101">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineer;Full-Stack+Development;AI%2FML;Backend+Systems" alt="Typing SVG" />
+</a>
+
+*Building practical software systems with modern full-stack technologies, intelligent application features, APIs, asynchronous workflows, backend architecture, and scalable system design.*
 
 </div>
 
@@ -11,7 +17,7 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>Full-Stack Engineering</h3>
+      <h3>🌐 Full-Stack Engineering</h3>
       <ul>
         <li><b>React & Next.js</b></li>
         <li>Modern web applications</li>
@@ -20,7 +26,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Backend Systems</h3>
+      <h3>⚙️ Backend Systems</h3>
       <ul>
         <li><b>Node.js, Express & Fastify</b></li>
         <li><b>Python, FastAPI & Go</b></li>
@@ -31,7 +37,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>AI & Machine Learning</h3>
+      <h3>🧠 AI & Machine Learning</h3>
       <ul>
         <li><b>Google Gemini & LLMs</b></li>
         <li><b>TensorFlow & Scikit-learn</b></li>
@@ -40,7 +46,7 @@
       </ul>
     </td>
     <td width="50%" valign="top">
-      <h3>Systems & Architecture</h3>
+      <h3>🏗️ Systems & Architecture</h3>
       <ul>
         <li><b>PostgreSQL, MySQL & Redis</b></li>
         <li><b>Kafka & Event-driven workflows</b></li>
@@ -133,9 +139,18 @@
 
 ## 🏗️ Architecture & Systems
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/priyanshgupta5101/priyanshgupta5101/main/assets/architecture.svg" alt="Architecture Diagram" width="800" />
-</div>
+```mermaid
+graph TD
+    Client([Client / User]) --> API{Web / API Layer}
+    
+    API --> App[Application Services]
+    API --> AI[AI / ML Services]
+    API --> Worker[Async Jobs / Workers]
+    
+    App --> DB[(Data / Storage)]
+    AI --> DB
+    Worker --> DB
+```
 *(A conceptual representation of the scalable, decoupled systems I build and maintain.)*
 
 <br>
@@ -146,8 +161,6 @@
 - **Backend:** Reliable APIs, asynchronous workflows, data consistency, and graceful error handling.
 - **Application Engineering:** Maintainability, reusable components, robust authentication, and strict validation.
 - **AI Systems:** Useful AI integration, structured agent workflows, and application-level intelligence.
-
-
 
 <br>
 
