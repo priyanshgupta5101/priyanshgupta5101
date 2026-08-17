@@ -171,14 +171,7 @@ I build practical software systems with modern full-stack technologies, intellig
 - **Application Engineering:** Maintainability, reusable components, robust authentication, and strict validation.
 - **AI Systems:** Useful AI integration, structured agent workflows, and application-level intelligence.
 
-<br>
 
-## 📊 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyanshgupta5101&show_icons=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshgupta5101&layout=compact" alt="Top Languages" />
-</div>
 
 <br>
 
