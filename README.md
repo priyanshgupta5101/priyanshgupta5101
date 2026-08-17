@@ -14,45 +14,46 @@
 
 ## 🔭 Engineering Focus
 
-<table width="100%">
+<table>
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 Full-Stack Engineering</h3>
-      <ul>
-        <li><b>React & Next.js</b></li>
-        <li>Modern web applications</li>
-        <li>Responsive interfaces</li>
-        <li>Application architecture</li>
-      </ul>
+      <blockquote>
+        Building complete applications from frontend to backend with modern tech stacks.
+      </blockquote>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>⚙️ Backend Systems</h3>
-      <ul>
-        <li><b>Node.js, Express & Fastify</b></li>
-        <li><b>Python, FastAPI & Go</b></li>
-        <li>APIs & service boundaries</li>
-        <li>Asynchronous processing</li>
-      </ul>
+      <blockquote>
+        Exploring APIs, asynchronous processing, service boundaries, and scalable architecture.
+      </blockquote>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🧠 AI & Machine Learning</h3>
-      <ul>
-        <li><b>Google Gemini & LLMs</b></li>
-        <li><b>TensorFlow & Scikit-learn</b></li>
-        <li>AI-powered applications</li>
-        <li>Intelligent workflows</li>
-      </ul>
+      <blockquote>
+        Integrating AI/ML where it creates tangible and useful product functionality.
+      </blockquote>
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
     </td>
     <td width="50%" valign="top">
       <h3>🏗️ Systems & Architecture</h3>
-      <ul>
-        <li><b>PostgreSQL, MySQL & Redis</b></li>
-        <li><b>Kafka & Event-driven workflows</b></li>
-        <li>Distributed job queues</li>
-        <li>Reliability & data storage</li>
-      </ul>
+      <blockquote>
+        Designing reliable data storage, event-driven workflows, and distributed job queues.
+      </blockquote>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
     </td>
   </tr>
 </table>
@@ -72,58 +73,75 @@
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/priyanshgupta5101/expenzo">Expenzo</a></h3>
-      <p>Intelligent Expense Management Platform</p>
-      <p><b>Focus:</b> Real-time APIs · Async Processing · AI-assisted Analysis</p>
-      <p><b>Tech:</b> Next.js · React · Convex · Gemini · Clerk · Inngest</p>
+      <h3><a href="https://github.com/priyanshgupta5101/expenzo">💳 Expenzo</a></h3>
+      <blockquote>Intelligent Expense Management Platform</blockquote>
+      <p><b>Focus:</b> Real-time APIs · Async Processing · AI</p>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white" />
+      <br><br>
       <a href="https://github.com/priyanshgupta5101/expenzo">View Repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/priyanshgupta5101/dermscan-ai">DermScan AI</a></h3>
-      <p>Clinical-Decision Support Platform</p>
-      <p><b>Focus:</b> Asynchronous Workflows · Event-driven · AI / ML</p>
-      <p><b>Tech:</b> PHP · Python · FastAPI · TensorFlow · MySQL</p>
+      <h3><a href="https://github.com/priyanshgupta5101/dermscan-ai">🔬 DermScan AI</a></h3>
+      <blockquote>Clinical-Decision Support Platform</blockquote>
+      <p><b>Focus:</b> Async Workflows · Event-driven · AI / ML</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+      <br><br>
       <a href="https://github.com/priyanshgupta5101/dermscan-ai">View Repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/priyanshgupta5101/distributed-job-queue">Distributed Job Queue</a></h3>
-      <p>Robust distributed job-processing platform</p>
-      <p><b>Focus:</b> Distributed Processing · Queues · Concurrency · Job Execution</p>
-      <p><b>Tech:</b> Node.js · Fastify · Redis · PostgreSQL</p>
+      <h3><a href="https://github.com/priyanshgupta5101/distributed-job-queue">⚙️ Distributed Job Queue</a></h3>
+      <blockquote>Robust distributed job-processing platform</blockquote>
+      <p><b>Focus:</b> Distributed Processing · Queues · Concurrency</p>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <br><br>
       <a href="https://github.com/priyanshgupta5101/distributed-job-queue">View Repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/priyanshgupta5101/event-driven-payment-platform">Event-Driven Payment Platform</a></h3>
-      <p>Event-driven payment and ledger system</p>
-      <p><b>Focus:</b> Event-driven Architecture · Transactional Outbox · Idempotency</p>
-      <p><b>Tech:</b> Python · FastAPI · PostgreSQL · Kafka</p>
+      <h3><a href="https://github.com/priyanshgupta5101/event-driven-payment-platform">💸 Event-Driven Payments</a></h3>
+      <blockquote>Event-driven payment and ledger system</blockquote>
+      <p><b>Focus:</b> Event-driven Architecture · Idempotency</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      <br><br>
       <a href="https://github.com/priyanshgupta5101/event-driven-payment-platform">View Repository →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/priyanshgupta5101/production-api-gateway">Production API Gateway</a></h3>
-      <p>High-performance distributed API gateway</p>
-      <p><b>Focus:</b> Request Routing · Circuit Breaking · Rate Limiting · Resilience</p>
-      <p><b>Tech:</b> Go</p>
+      <h3><a href="https://github.com/priyanshgupta5101/production-api-gateway">🚪 Production API Gateway</a></h3>
+      <blockquote>High-performance distributed API gateway</blockquote>
+      <p><b>Focus:</b> Request Routing · Circuit Breaking · Rate Limiting</p>
+      <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+      <br><br>
       <a href="https://github.com/priyanshgupta5101/production-api-gateway">View Repository →</a>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/priyanshgupta5101/AI-Inbox-and-Document-Assisstant">AI Inbox Assistant</a></h3>
-      <p>End-to-end multi-agent email triage workflow</p>
-      <p><b>Focus:</b> Multi-agent Workflows · AI / ML · RAG Integration</p>
-      <p><b>Tech:</b> n8n · LangGraph · RAG · MCP</p>
+      <h3><a href="https://github.com/priyanshgupta5101/AI-Inbox-and-Document-Assisstant">🤖 AI Inbox Assistant</a></h3>
+      <blockquote>End-to-end multi-agent email triage workflow</blockquote>
+      <p><b>Focus:</b> Multi-agent Workflows · AI / ML · RAG</p>
+      <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <br><br>
       <a href="https://github.com/priyanshgupta5101/AI-Inbox-and-Document-Assisstant">View Repository →</a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3><a href="https://github.com/priyanshgupta5101/Employees-Attrition">Employee Attrition Prediction</a></h3>
-      <p>Machine learning pipeline for workforce analytics predicting employee attrition.</p>
+      <h3><a href="https://github.com/priyanshgupta5101/Employees-Attrition">📊 Employee Attrition Prediction</a></h3>
+      <blockquote>Machine learning pipeline for workforce analytics predicting employee attrition.</blockquote>
       <p><b>Focus:</b> Machine Learning · MLOps Architecture · Attrition Prediction</p>
-      <p><b>Tech:</b> Python · Scikit-learn · MLOps</p>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+      <br><br>
       <a href="https://github.com/priyanshgupta5101/Employees-Attrition">View Repository →</a>
     </td>
   </tr>
@@ -135,15 +153,32 @@
 
 ```mermaid
 graph TD
-    Client([Client / User]) --> API{Web / API Layer}
+    %% Nodes
+    Client([👤 Client / User])
+    API{🌐 Web / API Layer}
+    App[⚙️ Application Services]
+    AI[🧠 AI / ML Services]
+    Worker[⚡ Async Jobs / Workers]
+    DB[(🗄️ Data / Storage)]
+
+    %% Connections
+    Client -->|HTTPS| API
+    API -->|Route| App
+    API -->|Process| AI
+    API -->|Queue| Worker
+    App -->|Read/Write| DB
+    AI -->|Fetch Model| DB
+    Worker -->|State| DB
+
+    %% Styling
+    classDef default fill:#1f2328,stroke:#d0d7de,stroke-width:1px,color:#c9d1d9
+    classDef client fill:#0969da,stroke:#fff,stroke-width:2px,color:#fff
+    classDef api fill:#8250df,stroke:#fff,stroke-width:2px,color:#fff
+    classDef db fill:#1a7f37,stroke:#fff,stroke-width:2px,color:#fff
     
-    API --> App[Application Services]
-    API --> AI[AI / ML Services]
-    API --> Worker[Async Jobs / Workers]
-    
-    App --> DB[(Data / Storage)]
-    AI --> DB
-    Worker --> DB
+    class Client client
+    class API api
+    class DB db
 ```
 *(A conceptual representation of the scalable, decoupled systems I build and maintain.)*
 
