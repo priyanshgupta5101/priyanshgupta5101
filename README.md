@@ -1,10 +1,6 @@
 <div align="center">
 
-# Priyansh Gupta
-
-**Software Engineer · Full-Stack Development · AI/ML · Backend Systems**
-
-I build practical software systems with modern full-stack technologies, intelligent application features, APIs, asynchronous workflows, backend architecture, and scalable system design.
+<img src="./assets/hero.svg" alt="Priyansh Gupta - Software Engineer" width="800" />
 
 </div>
 
@@ -137,29 +133,9 @@ I build practical software systems with modern full-stack technologies, intellig
 
 ## 🏗️ Architecture & Systems
 
-```text
-                    ┌──────────────────────┐
-                    │    Client / User     │
-                    └──────────┬───────────┘
-                               │
-                               ▼
-                    ┌──────────────────────┐
-                    │     Web / API Layer  │
-                    └──────────┬───────────┘
-                               │
-              ┌────────────────┼────────────────┐
-              ▼                ▼                ▼
-       ┌────────────┐   ┌────────────┐   ┌────────────┐
-       │ Application│   │  AI / ML   │   │ Async Jobs │
-       │  Services  │   │  Services  │   │ / Workers  │
-       └─────┬──────┘   └─────┬──────┘   └─────┬──────┘
-             │                │                │
-             └────────────────┼────────────────┘
-                              ▼
-                    ┌──────────────────────┐
-                    │   Data / Storage     │
-                    └──────────────────────┘
-```
+<div align="center">
+  <img src="./assets/architecture.svg" alt="Architecture Diagram" width="800" />
+</div>
 *(A conceptual representation of the scalable, decoupled systems I build and maintain.)*
 
 <br>
